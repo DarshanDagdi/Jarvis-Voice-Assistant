@@ -1,0 +1,15 @@
+# Ignore virtual environments
+env/
+jarvis-env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor folders
+.vscode/
+
+# Logs
+*.log
